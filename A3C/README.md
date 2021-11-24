@@ -51,7 +51,7 @@ python gym_eval.py
 ## References
 
 - Paper:
-1. ["Asynchronous Methods for Deep Reinforcement Learning"](https://arxiv.org/pdf/1602.01783v1.pdf)
+1. [Asynchronous Methods for Deep Reinforcement Learning](https://arxiv.org/pdf/1602.01783v1.pdf)
 
 
 - Github:
