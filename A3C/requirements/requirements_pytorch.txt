@@ -1,0 +1,4 @@
+pytorch
+torchvision
+torchaudio
+cudatoolkit=10.2
