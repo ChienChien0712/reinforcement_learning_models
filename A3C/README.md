@@ -1,6 +1,6 @@
 # pytorch a3c-lstm
 
-This is my study note of an implementation of Asynchronous Advantage Actor Critic (A3C) by coding with PyTorch.
+This is my note of an implementation of Asynchronous Advantage Actor Critic (A3C) by coding with PyTorch.
 
 ## Demo (Using a3c-lstm to solve atari games)
 
